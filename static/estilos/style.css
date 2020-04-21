@@ -1,0 +1,16 @@
+.operaciones button{
+    display: block;
+}
+
+.teclas{
+    display: flex;
+}
+
+.numeros div{
+    text-align: center;
+}
+
+button{
+    margin: 0px;
+    padding: 9px;
+}
